@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-dotenv
+langchain>=0.2.0
+langchain-google-genai
+langchain-pinecone>=0.1.0
+langchain_text_splitters
+pinecone-client>=3.0.0
+pypdf>=4.0.0
+streamlit
+requests
+chainlit
+gradio
+pydantic
+google
